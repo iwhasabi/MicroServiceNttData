@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git: 
-          uri: https:github.com/iwhasabi/Bootcamp-ConfigServer
+          uri: https://github.com/iwhasabi/Bootcamp-ConfigServer.git
           default-label: main
           search-paths:
           - '*service'
